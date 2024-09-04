@@ -1,6 +1,21 @@
 ## Hi there 👋
+Meu nome é Isaac jones 
 
+Estou estudando na Alura
+
+Estou me desenvolvendo na linguagem JavaScript
+
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+## Você pode entrar em contato comigo 📪
+
+isaac.menezes@120808@gmail.com
 <!--
+
+Você pode entrar em contato comigo 📪
+
+isaac.menezes@120808@gmail.com
+
 **Al12isacJM/Al12isacJM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
